@@ -1,0 +1,6 @@
+database:
+  connection:
+    driver: mysql
+    user: root
+    password: root
+    dsn: mysql:host=localhost;dbname=mythelia;port=3306
